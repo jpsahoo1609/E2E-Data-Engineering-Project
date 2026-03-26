@@ -7,6 +7,7 @@ It ingests NYC Taxi trip data from the public API, performs scalable transformat
 
 This project replicates how real enterprise data engineering teams build production‑ready data systems.
 # Architecture Diagram
+<img width="613" height="410" alt="Achitecture" src="https://github.com/user-attachments/assets/b19c6f8b-678a-4aa8-9230-e593aec04ff4" />
 
 # Key Highlights
 **1. Ingestion Layer(Azure Data Factory)**
